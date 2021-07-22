@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**chinmaytrpth2/chinmaytrpth2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><em>A graduate student at <a href="https://uta.edu">University of Texas at Arlington</a>, majoring in Computer Science. 😊</br>
+</em></p>
+
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, Python, Php, C, Swift],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular"],
+         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+      cloud: ["Azure", "AWS", "Google cloud"],
+      mobile: ["React Native", "IOS"]
+   },
+   currentOccupation: ["open for internship opportunities"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
+```
