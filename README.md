@@ -3,7 +3,7 @@
 <img src="https://github.com/chinmaytrpth2/chinmaytrpth2/blob/main/svg.svg" alt="Chinmaya" />
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Chinmaya?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinmayatripathi/)](https://www.linkedin.com/in/chinmayatripathi/)
+[![Linkedin Badge](https://img.shields.io/badge/-chinmayatrpth2-c14438?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinmayatripathi/)](https://www.linkedin.com/in/chinmayatripathi/)
 [![Website Badge](https://img.shields.io/badge/-chinmayatripathi-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=)]()
 [![Twitter Badge](https://img.shields.io/badge/-@__chinmaytrpth2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chinmaytrpth2)](https://twitter.com/chinmaytrpth2)
 [![Instagram Badge](https://img.shields.io/badge/-@chinmaytripathi-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/chinmaytripathi/)](https://www.instagram.com/chinmaytripathi/)
