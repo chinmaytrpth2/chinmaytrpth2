@@ -16,8 +16,7 @@ const aboutMe = {
       },
       backEnd: {
          java: ["Spring"],
-         js: ["Node", "Express"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         js: ["Node", "Express"]
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
       cloud: ["Azure", "AWS", "Google cloud"],
