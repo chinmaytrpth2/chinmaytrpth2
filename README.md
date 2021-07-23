@@ -8,7 +8,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@__chinmaytrpth2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chinmaytrpth2)](https://twitter.com/chinmaytrpth2)
 [![Instagram Badge](https://img.shields.io/badge/-@chinmaytripathi-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/chinmaytripathi/)](https://www.instagram.com/chinmaytripathi/)
 [![Gmail Badge](https://img.shields.io/badge/-chinmaytripathi30-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chinmayatripathi30@gmail.com)](mailto:chinmayatripathi30@gmail.com)
-[![Dev.to Badge](https://img.shields.io/badge/-chinmaytripathi30-c14438?style=flat&logo=Gmail&logoColor=white&link=https://dev.to/chinmaytrpth2)](https://dev.to/chinmaytrpth2)
+[![DEV.TO Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/chinmaytrpth2)
 
 <p><em>A graduate student at <a href="https://uta.edu">University of Texas at Arlington</a>, majoring in Computer Science. 😊</br>
 </em></p>
