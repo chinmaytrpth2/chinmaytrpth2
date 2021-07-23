@@ -3,11 +3,11 @@
 <img src="https://github.com/chinmaytrpth2/chinmaytrpth2/blob/main/svg.svg" alt="Chinmaya" />
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinmayatripathi/)](https://www.linkedin.com/in/chinmayatripathi/)
-[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=)]()
-[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chinmaytrpth2)](https://twitter.com/chinmaytrpth2)
-[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/chinmaytripathi/)](https://www.instagram.com/chinmaytripathi/)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chinmayatripathi30@gmail.com)](mailto:chinmayatripathi30@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Chinmaya?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinmayatripathi/)](https://www.linkedin.com/in/chinmayatripathi/)
+[![Website Badge](https://img.shields.io/badge/-chinmayatripathi-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=)]()
+[![Twitter Badge](https://img.shields.io/badge/-@__chinmaytrpth2-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chinmaytrpth2)](https://twitter.com/chinmaytrpth2)
+[![Instagram Badge](https://img.shields.io/badge/-@chinmaytripathi-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/chinmaytripathi/)](https://www.instagram.com/chinmaytripathi/)
+[![Gmail Badge](https://img.shields.io/badge/-chinmaytripathi30-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chinmayatripathi30@gmail.com)](mailto:chinmayatripathi30@gmail.com)
 
 <p><em>A graduate student at <a href="https://uta.edu">University of Texas at Arlington</a>, majoring in Computer Science. 😊</br>
 </em></p>
