@@ -28,6 +28,7 @@ const aboutMe = {
          php: ["Laravel"],
          js: ["Node", "Express"]
       },
+      architecture: ["microservices", "microfrontend"],
       databases: ["MongoDB", "mySQL", "SQLServer"],
       cloud: ["Azure", "AWS", "Google cloud"],
       mobile: ["React Native", "IOS"]
@@ -36,3 +37,5 @@ const aboutMe = {
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
+
+<img src="https://github.com/chinmaytrpth2/chinmaytrpth2/blob/main/quote.svg" alt="Who Am I?" />
