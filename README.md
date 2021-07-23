@@ -1,5 +1,10 @@
 
 # Hi I'm Chinmaya 👋
+
+
+<img src="https://github.com/chinmaytrpth2/chinmaytrpth2/blob/master/svg.svg"/>
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinmayatripathi/)](https://www.linkedin.com/in/chinmayatripathi/)
 [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=)]()
 [![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chinmaytrpth2)](https://twitter.com/chinmaytrpth2)
