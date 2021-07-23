@@ -1,5 +1,4 @@
 
-# Hi I'm Chinmaya 👋
 
 <img src="https://github.com/chinmaytrpth2/chinmaytrpth2/blob/main/svg.svg" alt="Chinmaya" />
 
