@@ -18,7 +18,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, Python, Php, C, Swift],
+   code: [Javascript, Typescript, Python, Php, C, JAVA],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
@@ -31,7 +31,8 @@ const aboutMe = {
       architecture: ["microservices", "microfrontend"],
       databases: ["MongoDB", "mySQL", "SQLServer"],
       cloud: ["Azure", "AWS", "Google cloud"],
-      mobile: ["React Native", "IOS"]
+      mobile: ["React Native", "IOS"],
+      sandbox: ["Docker", "Kubernetes"]
    },
    currentOccupation: ["open for internship opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
