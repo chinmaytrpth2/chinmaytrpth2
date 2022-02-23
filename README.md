@@ -32,9 +32,10 @@ const aboutMe = {
       databases: ["MongoDB", "mySQL", "SQLServer"],
       cloud: ["Azure", "AWS", "Google cloud"],
       mobile: ["React Native", "IOS"],
-      sandbox: ["Docker", "Kubernetes"]
+      sandbox: ["Docker", "Kubernetes"],
+      blockchain: ["Etherium", "Solidity", "Web3.js"]
    },
-   currentOccupation: ["open for internship opportunities"],
+   currentOccupation: ["Open for Full Time Opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
