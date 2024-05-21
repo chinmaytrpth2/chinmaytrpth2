@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-chinmaytripathi30-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chinmayatripathi30@gmail.com)](mailto:chinmayatripathi30@gmail.com)
 [![DEV.TO Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/chinmaytrpth2)
 
-<p><em>A graduate student at <a href="https://uta.edu">University of Texas at Arlington</a>, majoring in Computer Science. 😊</br>
+<p><em>Software Engineer - II at <a href="https://uta.edu">Goldman Sachs</a>, Graduated in Computer Science from UTA. 😊</br>
 </em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
